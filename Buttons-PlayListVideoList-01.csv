@@ -1,0 +1,80 @@
+﻿DivClass,ButtonId,URL,OnClickFunction,OnClickFunctionPlayListVideoListButtonId,OnClickFunctionVideoListFolderName,OnClickFunctionVideoListFileName,ButtonLabel
+Section-C2a-PlayList,PlayListButton-A,,ClickedPlayListButton,PlayListButton-A,Section-C2b-VideoList-A,,"A. Dance, warm up"
+Section-C2a-PlayList,PlayListButton-B,,ClickedPlayListButton,PlayListButton-B,Section-C2b-VideoList-B,,"B. Dance, disco style"
+Section-C2a-PlayList,PlayListButton-C,,ClickedPlayListButton,PlayListButton-C,Section-C2b-VideoList-C,,"C. Relax, recharge soul"
+Section-C2a-PlayList,PlayListButton-D,,ClickedPlayListButton,PlayListButton-D,Section-C2b-VideoList-D,,"D. Classic, amazing voice"
+Section-C2a-PlayList,PlayListButton-E,,ClickedPlayListButton,PlayListButton-E,Section-C2b-VideoList-E,,"E. Soundtrack, must stream"
+Section-C2a-PlayList,PlayListButton-F,,ClickedPlayListButton,PlayListButton-F,Section-C2b-VideoList-F,,F. ???
+Section-C2a-PlayList,PlayListButton-G,,ClickedPlayListButton,PlayListButton-G,Section-C2b-VideoList-G,,G. ???
+Section-C2a-PlayList,PlayListButton-H,,ClickedPlayListButton,PlayListButton-H,Section-C2b-VideoList-H,,H. ???
+Section-C2a-PlayList,PlayListButton-I,,ClickedPlayListButton,PlayListButton-I,Section-C2b-VideoList-I,,I. ???
+Section-C2a-PlayList,PlayListButton-J,,ClickedPlayListButton,PlayListButton-J,Section-C2b-VideoList-J,,J. ???
+Section-C2a-PlayList,PlayListButton-K,,ClickedPlayListButton,PlayListButton-K,Section-C2b-VideoList-K,,K. ???
+Section-C2a-PlayList,PlayListButton-L,,ClickedPlayListButton,PlayListButton-L,Section-C2b-VideoList-L,,L. ???
+Section-C2a-PlayList,PlayListButton-M,,ClickedPlayListButton,PlayListButton-M,Section-C2b-VideoList-M,,M. ???
+Section-C2a-PlayList,PlayListButton-N,,ClickedPlayListButton,PlayListButton-N,Section-C2b-VideoList-N,,N. ???
+Section-C2a-PlayList,PlayListButton-O,,ClickedPlayListButton,PlayListButton-O,Section-C2b-VideoList-O,,O. ???
+Section-C2a-PlayList,PlayListButton-P,,ClickedPlayListButton,PlayListButton-P,Section-C2b-VideoList-P,,P. ???
+Section-C2a-PlayList,PlayListButton-Q,,ClickedPlayListButton,PlayListButton-Q,Section-C2b-VideoList-Q,,Q. ???
+Section-C2a-PlayList,PlayListButton-R,,ClickedPlayListButton,PlayListButton-R,Section-C2b-VideoList-R,,R. ???
+Section-C2a-PlayList,PlayListButton-S,,ClickedPlayListButton,PlayListButton-S,Section-C2b-VideoList-S,,S. ???
+Section-C2a-PlayList,PlayListButton-T,,ClickedPlayListButton,PlayListButton-T,Section-C2b-VideoList-T,,T. ???
+Section-C2a-PlayList,PlayListButton-U,,ClickedPlayListButton,PlayListButton-U,Section-C2b-VideoList-U,,U. ???
+Section-C2a-PlayList,PlayListButton-V,,ClickedPlayListButton,PlayListButton-V,Section-C2b-VideoList-V,,V. ???
+Section-C2a-PlayList,PlayListButton-W,,ClickedPlayListButton,PlayListButton-W,Section-C2b-VideoList-W,,W. ???
+Section-C2a-PlayList,PlayListButton-X,,ClickedPlayListButton,PlayListButton-X,Section-C2b-VideoList-X,,X. ???
+Section-C2a-PlayList,PlayListButton-Y,,ClickedPlayListButton,PlayListButton-Y,Section-C2b-VideoList-Y,,Y. ???
+Section-C2a-PlayList,PlayListButton-Z,,ClickedPlayListButton,PlayListButton-Z,Section-C2b-VideoList-Z,,Z. ???
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-01,https://www.youtube.com/watch?v=1epBj6dQFA0,ClickedVideoListButton,PlayListButton-A-VideoListButton-01,Section-C2b-VideoList-A,01. Kraak & Smaak - Don't Want This To Be Over (Feat. Satchmode).mp4,01. Kraak & Smaak - Don't Want This To Be Over (Feat. Satchmode)
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-02,https://www.youtube.com/watch?v=D5J3GtLUSA8,ClickedVideoListButton,PlayListButton-A-VideoListButton-02,Section-C2b-VideoList-A,02. Emilíana Torrini - Let's Keep Dancing.mp4,02. Emilíana Torrini - Let's Keep Dancing
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-03,https://www.youtube.com/watch?v=5ePpP5SJnGk,ClickedVideoListButton,PlayListButton-A-VideoListButton-03,Section-C2b-VideoList-A,03. Claire Laffut - Nudes (Feat. Yseult).mp4,03. Claire Laffut - Nudes (Feat. Yseult)
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-04,https://www.youtube.com/watch?v=tQ3HWIsZXPM,ClickedVideoListButton,PlayListButton-A-VideoListButton-04,Section-C2b-VideoList-A,04. Claire Laffut - Vérité.mp4,04. Claire Laffut - Vérité
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-05,https://www.youtube.com/watch?v=MLZj56EZzBc,ClickedVideoListButton,PlayListButton-A-VideoListButton-05,Section-C2b-VideoList-A,05. Lewis OfMan - Siesta Freestyle (Feat. Alicia Te Quiero).mp4,05. Lewis OfMan - Siesta Freestyle (Feat. Alicia Te Quiero)
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-06,https://www.youtube.com/watch?v=xGCJViX_tKc,ClickedVideoListButton,PlayListButton-A-VideoListButton-06,Section-C2b-VideoList-A,06. Lewis OfMan - Plein De Bisous (Feat. Milena Leblanc).mp4,06. Lewis OfMan - Plein De Bisous (Feat. Milena Leblanc)
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-07,https://www.youtube.com/watch?v=CsGauHXioos,ClickedVideoListButton,PlayListButton-A-VideoListButton-07,Section-C2b-VideoList-A,07. POLO & PAN - Canopée.mp4,07. POLO & PAN - Canopée
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-08,https://www.youtube.com/watch?v=6ACTrTqnSHU,ClickedVideoListButton,PlayListButton-A-VideoListButton-08,Section-C2b-VideoList-A,08. POLO & PAN - Petite Etoile (Feat. Beth Ditto).mp4,08. POLO & PAN - Petite Etoile (Feat. Beth Ditto)
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-09,https://www.youtube.com/watch?v=zhfdat1BBF0,ClickedVideoListButton,PlayListButton-A-VideoListButton-09,Section-C2b-VideoList-A,09. Oracle Sisters - Marseille.mp4,09. Oracle Sisters - Marseille
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-10,https://www.youtube.com/watch?v=A7gJiNFfdn4,ClickedVideoListButton,PlayListButton-A-VideoListButton-10,Section-C2b-VideoList-A,10. Oscar Anton - ophelie.mp4,10. Oscar Anton - ophelie
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-11,https://www.youtube.com/watch?v=otQxcGdxWkU,ClickedVideoListButton,PlayListButton-A-VideoListButton-11,Section-C2b-VideoList-A,11. Oscar Anton & @voyovoyou - si rose.mp4,11. Oscar Anton & @voyovoyou - si rose
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-12,https://www.youtube.com/watch?v=B3JcHWCA-VA,ClickedVideoListButton,PlayListButton-A-VideoListButton-12,Section-C2b-VideoList-A,12. Oscar Anton & Clementine - nuits d'été.mp4,12. Oscar Anton & Clementine - nuits d'été
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-13,https://www.youtube.com/watch?v=PtU8q3AbYyk,ClickedVideoListButton,PlayListButton-A-VideoListButton-13,Section-C2b-VideoList-A,13. Claire Laffut - Vérité.mp4,13. Claire Laffut - Vérité
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-14,https://www.youtube.com/watch?v=l278UiNAe68,ClickedVideoListButton,PlayListButton-A-VideoListButton-14,Section-C2b-VideoList-A,14. Oracle Sisters - Marseille.mp4,14. Oracle Sisters - Marseille
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-15,https://www.youtube.com/watch?v=K90EJBU3kwc,ClickedVideoListButton,PlayListButton-A-VideoListButton-15,Section-C2b-VideoList-A,15. The South Hill Experiment - Gabo's Last Resort.mp4,15. The South Hill Experiment - Gabo's Last Resort
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-16,https://www.youtube.com/watch?v=7DSSjnL1Xi8,ClickedVideoListButton,PlayListButton-A-VideoListButton-16,Section-C2b-VideoList-A,16. Kraak & Smaak - Naked (Feat. IVAR & Berenice).mp4,16. Kraak & Smaak - Naked (Feat. IVAR & Berenice)
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-17,https://www.youtube.com/watch?v=X6mtBbHVGLA,ClickedVideoListButton,PlayListButton-A-VideoListButton-17,Section-C2b-VideoList-A,17. Kraak & Smaak - I Think (Feat. IVAR & Berenice).mp4,17. Kraak & Smaak - I Think (Feat. IVAR & Berenice)
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-18,https://www.youtube.com/watch?v=X6mtBbHVGLA,ClickedVideoListButton,PlayListButton-A-VideoListButton-18,Section-C2b-VideoList-A,18. Kraak & Smaak - Stumble (Feat. IVAR & Berenice).mp4,18. Kraak & Smaak - Stumble (Feat. IVAR & Berenice)
+Section-C2b-VideoList-A,PlayListButton-A-VideoListButton-19,https://www.youtube.com/watch?v=iXPd9z6HQpY,ClickedVideoListButton,PlayListButton-A-VideoListButton-19,Section-C2b-VideoList-A,19. Kraak & Smaak - My All (Feat. Turbotito).mp4,19. Kraak & Smaak - My All (Feat. Turbotito)
+Section-C2b-VideoList-B,PlayListButton-B-VideoListButton-01,https://www.youtube.com/watch?v=pok8H_KF1FA,ClickedVideoListButton,PlayListButton-B-VideoListButton-01,Section-C2b-VideoList-B,01. Doja Cat - Say So.mp4,01. Doja Cat - Say So
+Section-C2b-VideoList-B,PlayListButton-B-VideoListButton-02,https://www.youtube.com/watch?v=OS7YbPxBnBk,ClickedVideoListButton,PlayListButton-B-VideoListButton-02,Section-C2b-VideoList-B,"02. Smoke DZA - Santos Party House (Feat. Wiz Khalifa, Big K.R.I.T., Curren$y, Girl Talk).mp4","02. Smoke DZA - Santos Party House (Feat. Wiz Khalifa, Big K.R.I.T., Curren$y, Girl Talk)"
+Section-C2b-VideoList-B,PlayListButton-B-VideoListButton-03,https://www.youtube.com/watch?v=9Hd2nnxDjxc,ClickedVideoListButton,PlayListButton-B-VideoListButton-03,Section-C2b-VideoList-B,03. Yazmin Lacey - The Feels.mp4,03. Yazmin Lacey - The Feels
+Section-C2b-VideoList-B,PlayListButton-B-VideoListButton-04,https://www.youtube.com/watch?v=8IGDA8ZUQ08,ClickedVideoListButton,PlayListButton-B-VideoListButton-04,Section-C2b-VideoList-B,04. Yola - Starlight.mp4,04. Yola - Starlight
+Section-C2b-VideoList-B,PlayListButton-B-VideoListButton-05,https://www.youtube.com/watch?v=uVrW7Ctxujg,ClickedVideoListButton,PlayListButton-B-VideoListButton-05,Section-C2b-VideoList-B,05. Angie Stone - Bone 2 Pic (WIT U).mp4,05. Angie Stone - Bone 2 Pic (WIT U)
+Section-C2b-VideoList-C,PlayListButton-C-VideoListButton-01,https://www.youtube.com/watch?v=T8b2u10BnQw,ClickedVideoListButton,PlayListButton-C-VideoListButton-01,Section-C2b-VideoList-C,01. Joss Stone - Never Forget My Love.mp4,01. Joss Stone - Never Forget My Love
+Section-C2b-VideoList-C,PlayListButton-C-VideoListButton-02,https://www.youtube.com/watch?v=S0EbxLrqUKU,ClickedVideoListButton,PlayListButton-C-VideoListButton-02,Section-C2b-VideoList-C,02. Father John Misty - I Guess Time Just Makes Fools of Us All.mp4,02. Father John Misty - I Guess Time Just Makes Fools of Us All
+Section-C2b-VideoList-C,PlayListButton-C-VideoListButton-03,https://www.youtube.com/watch?v=b9qaj9veQqA,ClickedVideoListButton,PlayListButton-C-VideoListButton-03,Section-C2b-VideoList-C,03. Joshua Idehen - Once in a Lifetime.mp4,03. Joshua Idehen - Once in a Lifetime
+Section-C2b-VideoList-D,PlayListButton-D-VideoListButton-01,https://www.youtube.com/watch?v=OMD8hBsA-RI,ClickedVideoListButton,PlayListButton-D-VideoListButton-01,Section-C2b-VideoList-D,01. Journey - Faithfully.mp4,01. Journey - Faithfully
+Section-C2b-VideoList-D,PlayListButton-D-VideoListButton-02,https://www.youtube.com/watch?v=2q4RwTIkYk0,ClickedVideoListButton,PlayListButton-D-VideoListButton-02,Section-C2b-VideoList-D,02. Journey - Who's Crying Now.mp4,02. Journey - Who's Crying Now
+Section-C2b-VideoList-D,PlayListButton-D-VideoListButton-03,https://www.youtube.com/watch?v=VcjzHMhBtf0,ClickedVideoListButton,PlayListButton-D-VideoListButton-03,Section-C2b-VideoList-D,03. Journey - Don't Stop Believin'.mp4,03. Journey - Don't Stop Believin'
+Section-C2b-VideoList-E,PlayListButton-E-VideoListButton-01,https://www.youtube.com/watch?v=uveyVkCkflY,ClickedVideoListButton,PlayListButton-E-VideoListButton-01,Section-C2b-VideoList-E,01. La Casa De Papel (Money Heist) - Bella Ciao (Slow Version).mp4,01. La Casa De Papel (Money Heist) - Bella Ciao (Slow Version)
+Section-C2b-VideoList-E,PlayListButton-E-VideoListButton-02,https://www.youtube.com/watch?v=p_eq98EINOI,ClickedVideoListButton,PlayListButton-E-VideoListButton-02,Section-C2b-VideoList-E,02. La Casa De Papel (Money Heist) - Bella Ciao (Extended Version).mp4,02. La Casa De Papel (Money Heist) - Bella Ciao (Extended Version)
+Section-C2b-VideoList-F,PlayListButton-F-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-F-VideoListButton-01,Section-C2b-VideoList-F,01. ???,01. ???
+Section-C2b-VideoList-G,PlayListButton-G-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-G-VideoListButton-01,Section-C2b-VideoList-G,01. ???,01. ???
+Section-C2b-VideoList-H,PlayListButton-H-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-H-VideoListButton-01,Section-C2b-VideoList-H,01. ???,01. ???
+Section-C2b-VideoList-I,PlayListButton-I-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-I-VideoListButton-01,Section-C2b-VideoList-I,01. ???,01. ???
+Section-C2b-VideoList-J,PlayListButton-J-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-J-VideoListButton-01,Section-C2b-VideoList-J,01. ???,01. ???
+Section-C2b-VideoList-K,PlayListButton-K-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-K-VideoListButton-01,Section-C2b-VideoList-K,01. ???,01. ???
+Section-C2b-VideoList-L,PlayListButton-L-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-L-VideoListButton-01,Section-C2b-VideoList-L,01. ???,01. ???
+Section-C2b-VideoList-M,PlayListButton-M-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-M-VideoListButton-01,Section-C2b-VideoList-M,01. ???,01. ???
+Section-C2b-VideoList-N,PlayListButton-N-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-N-VideoListButton-01,Section-C2b-VideoList-N,01. ???,01. ???
+Section-C2b-VideoList-O,PlayListButton-O-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-O-VideoListButton-01,Section-C2b-VideoList-O,01. ???,01. ???
+Section-C2b-VideoList-P,PlayListButton-P-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-P-VideoListButton-01,Section-C2b-VideoList-P,01. ???,01. ???
+Section-C2b-VideoList-Q,PlayListButton-Q-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-Q-VideoListButton-01,Section-C2b-VideoList-Q,01. ???,01. ???
+Section-C2b-VideoList-R,PlayListButton-R-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-R-VideoListButton-01,Section-C2b-VideoList-R,01. ???,01. ???
+Section-C2b-VideoList-S,PlayListButton-S-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-S-VideoListButton-01,Section-C2b-VideoList-S,01. ???,01. ???
+Section-C2b-VideoList-T,PlayListButton-T-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-T-VideoListButton-01,Section-C2b-VideoList-T,01. ???,01. ???
+Section-C2b-VideoList-U,PlayListButton-U-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-U-VideoListButton-01,Section-C2b-VideoList-U,01. ???,01. ???
+Section-C2b-VideoList-V,PlayListButton-V-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-V-VideoListButton-01,Section-C2b-VideoList-V,01. ???,01. ???
+Section-C2b-VideoList-W,PlayListButton-W-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-W-VideoListButton-01,Section-C2b-VideoList-W,01. ???,01. ???
+Section-C2b-VideoList-X,PlayListButton-X-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-X-VideoListButton-01,Section-C2b-VideoList-X,01. ???,01. ???
+Section-C2b-VideoList-Y,PlayListButton-Y-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-Y-VideoListButton-01,Section-C2b-VideoList-Y,01. ???,01. ???
+Section-C2b-VideoList-Z,PlayListButton-Z-VideoListButton-01,https://www.youtube.com/watch?v=???,ClickedVideoListButton,PlayListButton-Z-VideoListButton-01,Section-C2b-VideoList-Z,01. ???,01. ???
